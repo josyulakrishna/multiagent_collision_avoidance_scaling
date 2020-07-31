@@ -19,4 +19,4 @@ Without scaling all the robots would collide, here only the results are shown
 
 
 ## Unstructured Trajectories 
-![3](gifs/merge_test_case3.gif)
+![3](gifs/merge_test_case3.mp4)
